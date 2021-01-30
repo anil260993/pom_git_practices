@@ -31,7 +31,9 @@ System.out.println("merge issue in testbase class local_9999");
 		
 	}
 	public static void intialize(){
-		System.out.println("merge issue in test class git_6789");
+
+		System.out.println("merge issue in test class local_6789");
+
 		String browser_name=prop.getProperty("browser");
 		if(browser_name.equals("chrome")){
 			System.setProperty("webdriver.chrome.driver", "D:\\Testing\\software\\chromedriver.exe");
