@@ -25,7 +25,9 @@ public class TestBase {
 		prop=new Properties();
 		prop.load(fis);
 		log=LogManager.getLogger(TestBase.class.getName());
-		System.out.println("login sucessful from local");
+
+		System.out.println("login sucessful");
+
 		
 	}
 	public static void intialize(){
