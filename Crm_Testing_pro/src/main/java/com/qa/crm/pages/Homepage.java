@@ -25,7 +25,9 @@ public class Homepage extends TestBase{
 		System.out.println("merge issue in homepage class local_12435");
 
 		System.out.println("merge issue in homepage class local_6789");
+
 		System.out.println("merge issue in homepage class git_8888");
+
 
 		return usernamelabel.isDisplayed();
 		
