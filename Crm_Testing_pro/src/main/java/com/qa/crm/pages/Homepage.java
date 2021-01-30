@@ -23,6 +23,7 @@ public class Homepage extends TestBase{
 
 	public boolean userLabelValidation(){
 		System.out.println("merge issue in homepage class local_12435");
+		System.out.println("merge issue in homepage class git_6789");
 		return usernamelabel.isDisplayed();
 		
 		
