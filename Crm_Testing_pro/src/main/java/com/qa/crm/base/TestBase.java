@@ -27,7 +27,7 @@ public class TestBase {
 		log=LogManager.getLogger(TestBase.class.getName());
 
 		System.out.println("login sucessful");
-System.out.println("merge issue in testbase class local");
+System.out.println("merge issue in testbase class git");
 		
 	}
 	public static void intialize(){
