@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.qa.crm.testcases.LoginpageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.crm.testcases.LoginpageTest -->
+      <class name="com.qa.crm.testcases.HomepageTest">
+        <methods>
+          <include name="homePageUserLabelValidationTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.crm.testcases.HomepageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

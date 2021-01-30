@@ -1,0 +1,6 @@
+15:18:02.217 [main] INFO  com.qa.crm.base.TestBase - chrome bowser is launched
+15:18:09.805 [main] INFO  com.qa.crm.base.TestBase - https://classic.crmpro.com ::url is opened
+15:18:10.817 [main] INFO  java.lang.Class - signup functionality completed
+15:18:13.997 [main] INFO  com.qa.crm.base.TestBase - chrome bowser is launched
+15:18:22.273 [main] INFO  com.qa.crm.base.TestBase - https://classic.crmpro.com ::url is opened
+15:18:28.818 [main] INFO  java.lang.Class - Login is succe

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20574" started-at="2021-01-02T06:53:06Z" finished-at="2021-01-02T06:53:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20574" started-at="2021-01-02T06:53:06Z" finished-at="2021-01-02T06:53:27Z">
+      <class name="com.qa.crm.testcases.LoginpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.crm.testcases.LoginpageTest@2ed94a8b]" name="setUp" is-config="true" duration-ms="11270" started-at="2021-01-02T06:53:06Z" finished-at="2021-01-02T06:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageUrlTest()[pri:1, instance:com.qa.crm.testcases.LoginpageTest@2ed94a8b]" name="loginPageUrlTest" duration-ms="7" started-at="2021-01-02T06:53:18Z" finished-at="2021-01-02T06:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageUrlTest -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:2, instance:com.qa.crm.testcases.LoginpageTest@2ed94a8b]" name="loginPageTitleTest" duration-ms="5" started-at="2021-01-02T06:53:18Z" finished-at="2021-01-02T06:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="loginFunctionalityTest()[pri:3, instance:com.qa.crm.testcases.LoginpageTest@2ed94a8b]" name="loginFunctionalityTest" duration-ms="8565" started-at="2021-01-02T06:53:18Z" finished-at="2021-01-02T06:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.crm.testcases.LoginpageTest@2ed94a8b]" name="tearDown" is-config="true" duration-ms="712" started-at="2021-01-02T06:53:26Z" finished-at="2021-01-02T06:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.crm.testcases.LoginpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="19201" started-at="2021-01-02T06:53:27Z" finished-at="2021-01-02T06:53:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19201" started-at="2021-01-02T06:53:27Z" finished-at="2021-01-02T06:53:46Z">
+      <class name="com.qa.crm.testcases.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.crm.testcases.HomepageTest@6537cf78]" name="setUp" is-config="true" duration-ms="18442" started-at="2021-01-02T06:53:27Z" finished-at="2021-01-02T06:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageUserLabelValidationTest()[pri:1, instance:com.qa.crm.testcases.HomepageTest@6537cf78]" name="homePageUserLabelValidationTest" duration-ms="86" started-at="2021-01-02T06:53:45Z" finished-at="2021-01-02T06:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageUserLabelValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.crm.testcases.HomepageTest@6537cf78]" name="tearDown" is-config="true" duration-ms="673" started-at="2021-01-02T06:53:46Z" finished-at="2021-01-02T06:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.crm.testcases.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
