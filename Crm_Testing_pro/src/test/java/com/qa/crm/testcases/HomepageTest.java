@@ -34,7 +34,7 @@ public class HomepageTest extends TestBase{
 	}
 	@BeforeClass
 	public void setUp() throws IOException, InterruptedException {
-		 log=LogManager.getLogger(HomepageTest.class. );
+		// log=LogManager.getLogger(HomepageTest.class. );
 		intialize();
 		loginpage=new Loginpage();	
 	homepage=	loginpage.validatingLoginPage(prop.getProperty("username"), prop.getProperty("password"));
